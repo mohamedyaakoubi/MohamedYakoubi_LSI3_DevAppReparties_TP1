@@ -5,7 +5,7 @@ Ce dépôt contient tous mes TPs de la matière **Développement d'applications 
 | | |
 |---|---|
 | **Étudiant** | Mohamed Yakoubi |
-| **Classe** | LSI 3 |
+| **Section** | LSI 3 2 TP2|
 | **Établissement** | Faculté des Sciences de Sfax |
 | **Année universitaire** | 2026 – 2027 |
 
