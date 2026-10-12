@@ -21,9 +21,8 @@ Chaque TP a son propre dossier, avec son propre README (explications et captures
 
 > Je vais ajouter les autres TPs dans cette liste quand je les termine.
 
----
-
-## Structure du dépôt
+<details>
+<summary><b>Structure du dépôt</b></summary>
 
 ```text
 MohamedYakoubi_LSI3_DevAppReparties_TP1
@@ -35,3 +34,5 @@ MohamedYakoubi_LSI3_DevAppReparties_TP1
         ├── clientPackage/Client.java
         └── serverPackage/Server.java
 ```
+
+</details>
